@@ -40,7 +40,6 @@ O design é minimalista, funcional e pensado para funcionar perfeitamente em **q
 📍 Desenvolvedor em formação, apaixonado por tecnologia e aprendizado contínuo.  
 🎓 Projeto desenvolvido durante o curso **Discover da [Rocketseat](https://www.rocketseat.com.br/)**.  
 🌎 [LinkedIn](https://www.linkedin.com/in/samuel-batista-0b357631b/)  
-🐙 [GitHub](https://github.com/Battyst)  
 📸 [Instagram](https://instagram.com/samuelb_mee_)
 
 
